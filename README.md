@@ -1,2 +1,10 @@
-# chat-app-in-ndoe.js-socket.io
-Realtime chat app in node.js and socket.io.
+# chat-app-in-node.js-socket.io
+
+### Real-Time Web Applications with Socket.io  
+
+Check it live: https://hadi-chatapp.herokuapp.com
+
+- Allow users to join different chat rooms and communicate with each other
+- Setup a websocket server using express and socket.io
+- Work with socket.io events (emit and listen)
+- Build html template using mustache.js
