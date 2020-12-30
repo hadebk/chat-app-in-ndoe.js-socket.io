@@ -1,6 +1,4 @@
-# chat-app-in-node.js-socket.io
-
-### Real-Time Web Applications with Socket.io  
+## Real-Time Chat Applications Using Node.js with Socket.io  
 
 Check it live: https://hadi-chatapp.herokuapp.com
 
